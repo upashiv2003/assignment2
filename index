@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Card UI – Felonious Gru</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="card">
+    <img src="https://www.syfy.com/syfy-wire/an-ode-to-despicable-mes-gru-on-fathers-day" alt="Felonious Gru">
+    <div class="card-body">
+      <h2>Felonious Gru</h2>
+      <p>Part-time villain, full-time dad.<br>Loves bananas & moon heists.</p>
+      <a href="https://example.com" target="_blank">Visit Lair →</a>
+    </div>
+  </div>
+</body>
+</html>
